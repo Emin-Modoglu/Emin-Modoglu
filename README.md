@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emin Modoglu</h1>
+<h1 align="center">Hi 👋, I'm Emin Modoglu</h1><br>
 <h3 align="center">freedom, innovator , curıous</h3>
 
 - 🔭 I’m currently working on **C programing**
@@ -7,9 +7,6 @@
 
 - 💬 Ask me about **ecole 42 and artificial intelligence**
 
-- 📫 How to reach me **eminmodogluxox@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
