@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **C programing**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Go programing**
 
-- 💬 Ask me about **ecole 42 and artificial intelligence**
+- 💬 Ask me about **Ecole 42**
 
 <p align="left">
 </p>
